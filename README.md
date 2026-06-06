@@ -20,7 +20,7 @@ Secure Web Browser is an Android application built using Kotlin and Jetpack Comp
 1. Clone the repository.
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/Vishwjeetthakur/Secure-Web-Browser-Application.git>
 ```
 
 2. Open the project in Android Studio.
@@ -39,9 +39,8 @@ com.vishwajeet.securewebbrowserapplication
 app/google-services.json
 ```
 
-6. Add your Google Web Client ID to `local.properties`.
+6. Add your Google Web Client ID .
 
-```properties
 WEB_CLIENT_ID=your_web_client_id_here
 ```
 
